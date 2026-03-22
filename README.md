@@ -187,6 +187,7 @@ Each script clears the workspace, computes design parameters, runs the frequency
 
 ## Authors
 
-- Andre Filipe Neto Oliveira — 102855 (Turma P7)
+- Andre Filipe Neto Oliveira — 102855
+- Edson Come - 115640
 
-**Course**: Circuitos e Sistemas de Microondas — University of Aveiro
+**Course**: Propagacao e Radiacao de Ondas Electromagneticas — University of Aveiro
