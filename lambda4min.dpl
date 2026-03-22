@@ -1,0 +1,33 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-60,1532,1040,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=lambda4min.dat>
+  <DataDisplay=lambda4min.sch>
+  <OpenDisplay=1>
+  <Script=lambda4min.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Autor:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Smith 980 535 395 395 3 #c0c0c0 1 00 1 0 1 1 1 0 4 1 1 0 1 1 315 0 225 "" "" "">
+	<"S[1,1]" #0000ff 0 3 0 0 0>
+	  <Mkr 1.05597e+09 248 -389 3 0 0>
+  </Smith>
+  <Rect 80 540 867 396 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"dB" #0000ff 0 3 0 0 0>
+	  <Mkr 1.05597e+09 270 -67 4 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
